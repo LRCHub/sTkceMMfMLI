@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜に惑う",
+  "base_artist": "BOY MEETS HARU",
+  "createdAt": "2025-12-18T10:21:20.476218Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜に惑う",
+      "artist": "BOY MEETS HARU",
+      "has_synced": false,
+      "path": "select/pl_01_夜に惑う_BOY_MEETS_HARU.txt"
+    }
+  ]
+}
